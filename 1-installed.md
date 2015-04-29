@@ -1,6 +1,6 @@
-# What Seth just put on my machine? 
+# What did Seth just put on my machine? 
 
-Of the apps Seth put on your machine, iTerm2 and Sublime text are the most important. We'll be spending a bulk of our time in there. 
+Of your recently added apps, iTerm2 and Sublime text are the most important. We'll be spending a bulk of our time in there. 
 
 ## [iTerm2](http://iterm2.com/)
 A "console" or "terminal" gives you Godlike control over you machine from a command line. Your Mac came with an app called Terminal. iTerm2 is a slightly better version of that. We'll start off by using iTerm to do a lot of the things you currently do in finder: navigating directories, moving files around, running programs. 
